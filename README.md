@@ -1,8 +1,5 @@
 # Mini PhotoShop
-
 <br>
-<br>
-
 ## Explanation ([Video](https://www.youtube.com/watch?v=ag66wZfQqsU))
 라이브러리 사용을 최소화하여 Python 영상처리 알고리즘을 구현한 mini PhotoShop
 <br>
