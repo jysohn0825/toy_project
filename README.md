@@ -1,9 +1,13 @@
 # Mini PhotoShop
 <br>
+
+
 ## Explanation ([Video](https://www.youtube.com/watch?v=ag66wZfQqsU))
 라이브러리 사용을 최소화하여 Python 영상처리 알고리즘을 구현한 mini PhotoShop
 <br>
 <br>
+
+
 ### 화소점 처리
 <br>
 <center><img src="https://user-images.githubusercontent.com/43517509/94339512-7ddf8780-0035-11eb-9599-7c35939e7c65.PNG" width="800" height="500"></center>
