@@ -148,9 +148,9 @@ def clickSign():
 ## 전역 변수부
 count = 0
 conn, cur = None, None
-IP = '127.0.0.1'
-USER = 'root'
-PASSWORD = '8813461a!'
+IP = ****
+USER = ****
+PASSWORD = ****
 DB = 'drowsiness_db'
 window = None
 edtID, edtPW = None, None
