@@ -151,7 +151,7 @@ conn, cur = None, None
 IP = ****
 USER = ****
 PASSWORD = ****
-DB = 'drowsiness_db'
+DB = ****
 window = None
 edtID, edtPW = None, None
 
